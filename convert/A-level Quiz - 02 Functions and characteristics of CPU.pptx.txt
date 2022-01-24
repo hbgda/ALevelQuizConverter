@@ -1,0 +1,170 @@
+Functions and characteristics of CPU
+Teach Computer Science
+A-level
+
+Quiz
+Which of the following component of computer stores program files and data when they are not in use?
+Random Access Memory
+Storage drive
+Register
+
+What of the following is FALSE about core?
+Core is a processing unit of CPU.
+A CPU consists of multiple cores.
+It consists of a processor and registers.
+Cores in a CPU do not communicate with each other. 
+
+Which of the following statement is TRUE?
+Increasing the number of cores, increases the speed of a computer.
+Increasing the number of cores 4 times, increases the speed of computer 4 times too.
+To interconnect 5 cores in a computer, 12 channels are required. 
+
+What is clock rate?
+Rate at which the internal timer of CPU operates.
+Number of instructions copied by a CPU from storage drive in a second.
+Number of instructions processed by a CPU in a second.
+
+
+Which of the following bus is NOT a unit to measure CPU’s clock rate? 
+Megahertz (MHz) 
+Gigahertz (GHz) 
+Megabytes (MB)
+Instructions per second
+
+Which of the following statement is TRUE about a 5GHz CPU?
+It processes about 5 billion instructions a second.
+It processes about 5 billion instructions a minute.
+It processes about 5 billion instructions a hour.
+
+What is over-clocking?
+Increasing the number of timers in a CPU.
+Increasing the speed of the computer by increasing the CPU clock speed 
+Increasing the number of cores in CPU.
+
+What are the disadvantage(s) of overclocking?
+Some instructions might not get executed completely.
+Data corruption
+Over heating
+All of the above
+
+
+
+Which of the following is FALSE about cache?
+Cache is a small memory part located closer to the CPU when compared to RAM. 
+It temporarily holds the data and instruction that the CPU is likely to use more frequently. 
+It increases the access time of CPU.
+
+What statement is best suited to complete the box?
+
+
+
+
+
+
+Searching cache
+If data present in cache
+If data is not in cache
+
+Cache can be classified into three levels as Level 1, Level 2 and Level 3(L3). Which one of them is shared?
+L1
+L2
+L3
+L1, L2 and L3
+
+
+
+
+CPU
+Cache
+Main memory
+Requesting data
+?
+
+Cache can be classified into three levels as Level 1, Level 2 and Level 3(L3). Which one of them has the smallest memory space?
+L1
+L2
+L3
+
+Cache can be classified into three levels as Level 1, Level 2 and Level 3(L3). Which one of them is located in the CPU?
+L1
+L2
+L3
+
+Cache can be classified into three levels as Level 1, Level 2 and Level 3(L3). Which one of them has the fastest access time?
+L1
+L2
+L3
+
+Which of the following statement is TRUE about embedded computers?
+It is designed to perform a dedicated function.
+It is programmed by the user.
+General-purpose computers are more reliable when compared to embedded computers.
+It requires high power to operate
+
+
+Which of the following embedded computers is used commercially in digital cameras?
+Arduino
+Raspberry Pi
+Wearable gadgets
+
+Which of the following is an open-sourced microcontroller?
+Raspberry Pi
+Arduino
+Intel Quark
+
+Which of the following is NOT an example of an embedded computer?
+DVD player
+Digital watch
+Keyboard
+GPS
+
+What is the disadvantage of embedded computers?
+Embedded computers are low-power devices
+Low-cost
+Users cannot modify the program in embedded computers
+Robust and reliable
+
+
+Answers
+Question Number
+Answer
+1
+B
+2
+D
+3
+A
+4
+C
+5
+C
+6
+A
+7
+B
+8
+D
+9
+C
+10
+C
+11
+C
+12
+A
+13
+A
+Question Number
+Answer
+14
+A
+15
+A
+16
+B
+17
+B
+18
+C
+19
+C
