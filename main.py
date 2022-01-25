@@ -106,7 +106,9 @@ def create_questions(questions, answers) -> list[Question]:
 # Iterate through files within the specific convert_path and convert each.
 for file in os.listdir(convert_path):
 
-    file_txt = open(f"{convert_path}/{file}").read()
+    print(f"Converting [{file}]")
+
+    file_txt = open(f"{convert_path}/{file}", encoding="utf-8").read()
     # Create an array of strings containing question+answer data to later format.
     split = re.split("\\n\\n+", file_txt)
     
@@ -138,5 +140,7 @@ for file in os.listdir(convert_path):
     # Save questions to relevant formats.
     save_to_csv(converted_questions, file)
     save_to_json(converted_questions, file)
+
+print("\n\n\n\nCONVERTED FILES ARE NOT GUARANTEED TO BE ACCURATE OR COMPLETE\nPLEASE REVIEW CONVERTED FILES BEFORE USE!\n\n\n\n")
 
     
